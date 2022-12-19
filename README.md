@@ -3,7 +3,8 @@ madplotlib-challenge
 What good is data without a good plot to tell the story?
 
 In this homework assignment, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
-## Background
+
+Background
 
 You've just  joined Pymaceuticals Inc., a new pharmaceutical company that specializes in anti-cancer pharmaceuticals. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -11,7 +12,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the study. They have also asked for a top-level summary of the study results.
 
-## Instructions
+Instructions
 
 Your tasks are to do the following:
 
