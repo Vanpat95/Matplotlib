@@ -1,4 +1,4 @@
-# Unit 5 Homework: The Power of Plots
+madplotlib-challenge
 
 What good is data without a good plot to tell the story?
 
